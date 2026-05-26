@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailuave",
+        "uuid": 3444865,
+        "checksum": "5dbh3m"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
